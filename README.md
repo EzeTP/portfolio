@@ -1,4 +1,6 @@
-## Hi 👋, I'm Ezequiel Tejada
+## Hi 👋, I'm Ezequiel Tejada and I'm, an English teacher and front-end enthusiast. I enjoy learning new technologies as well as creating beautiful websites. Some of my skills include HTML, CSS, SASS, JavaScript, React, Redux, NodeJS, Express, PostgreSQL, and Sequelize.
+
+ezequiel-tejada.vercel.app
 
 ### My skills include:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FAFAFA)
@@ -13,7 +15,9 @@
 
 
 📫 Get in touch
-
+Email: tejada.eap@gmail.com
+GitHub: https://github.com/EzeTP
+Portfolio: ezequiel-tejada.vercel.app
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzeTP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
