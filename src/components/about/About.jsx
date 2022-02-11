@@ -15,7 +15,7 @@ const About = () => {
           <h2>“Code is like humor. When you have to explain it, it's bad.”</h2>
           <h5>– Cory House</h5>
           <p>
-            👋 Hello! My name is Ezequiel and I'm, an English teacher and
+            👋 Hello! My name is Ezequiel and I'm a teacher of English and
             front-end enthusiast. I enjoy learning new technologies as well as
             creating beautiful websites. Some of my skills include HTML, CSS,
             SASS, JavaScript, React, Redux, NodeJS, Express, PostgreSQL, and
