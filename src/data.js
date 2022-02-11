@@ -13,7 +13,7 @@ import postgresql from "./assets/postgresql.png";
 export const featuredPortfolio = [
   {
     id: 1,
-    title: "Weather app",
+    title: "SuperChat",
     img: imgn,
     link: "https://www.google.com/",
   },
@@ -21,26 +21,26 @@ export const featuredPortfolio = [
     id: 2,
     title: "RyM app",
     img: rick,
-    link: "https://www.google.com/",
+    link: "https://rickndmrtwiki.netlify.app/",
   },
 ];
 
 export const webPortfolio = [
   {
     id: 1,
-    title: "Rick and Morty",
+    title: "Rick and Morty Wiki",
     img: rick,
-    link: "https://www.google.com/",
+    link: "https://rickndmrtwiki.netlify.app/",
   },
   {
     id: 1,
     title: "Weather app",
     img: imgn,
-    link: "https://www.google.com/",
+    link: "https://react-weather-app-ashy.vercel.app",
   },
   {
     id: 3,
-    title: "Web E-commerce Design",
+    title: "SuperChat",
     img: "https://cdn.dribbble.com/users/3637068/screenshots/15467010/media/69a3279182b75365013fe285733d1122.png?compress=1&resize=1200x900",
   },
 ];
