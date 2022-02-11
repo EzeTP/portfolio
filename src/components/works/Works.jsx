@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import "./works.scss";
 import img from "../../assets/weatherapp.png";
 import rick from "../../assets/rickandmortyapp.png";
+import chat from "../../assets/superchat.png";
 
 const Works = () => {
   const [currentSlider, setCurrentSlider] = useState(0);
@@ -22,7 +23,7 @@ const Works = () => {
       id: 2,
       title: "SuperChat",
       desc: "A  chat created using React and firebase",
-      img: "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
+      img: chat,
     },
   ];
 
