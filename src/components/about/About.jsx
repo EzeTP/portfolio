@@ -7,7 +7,7 @@ const About = () => {
     <div className="about" id="about">
       <div className="left">
         <div className="imgContainer">
-          <img src="assets/man.png" alt="img not found" />
+          <img src="assets/profile.png" alt="img not found" />
         </div>
       </div>
       <div className="right">
