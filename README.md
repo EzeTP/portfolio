@@ -1,4 +1,4 @@
-## Hi 👋, I'm Ezequiel Tejada and I'm, an English teacher and front-end enthusiast. I enjoy learning new technologies as well as creating beautiful websites. Some of my skills include HTML, CSS, SASS, JavaScript, React, Redux, NodeJS, Express, PostgreSQL, and Sequelize.
+## Hi 👋, Hello! My name is Ezequiel and I'm a teacher of English and a front-end enthusiast. I enjoy learning new technologies as well as creating beautiful websites. Some of my skills include HTML, CSS, SASS, JavaScript, React, Redux, NodeJS, Express, PostgreSQL, and Sequelize.
 
 
 ### My skills include:
