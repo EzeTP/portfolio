@@ -9,13 +9,14 @@ import sass from "./assets/sass.png";
 import css3 from "./assets/css3.png";
 import html from "./assets/html.png";
 import postgresql from "./assets/postgresql.png";
+import chat from "./assets/superchat.png";
 
 export const featuredPortfolio = [
   {
     id: 1,
     title: "SuperChat",
-    img: imgn,
-    link: "https://www.google.com/",
+    img: chat,
+    link: "",
   },
   {
     id: 2,
@@ -41,7 +42,8 @@ export const webPortfolio = [
   {
     id: 3,
     title: "SuperChat",
-    img: "https://cdn.dribbble.com/users/3637068/screenshots/15467010/media/69a3279182b75365013fe285733d1122.png?compress=1&resize=1200x900",
+    img: chat,
+    link: "",
   },
 ];
 
