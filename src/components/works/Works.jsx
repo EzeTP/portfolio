@@ -9,19 +9,19 @@ const Works = () => {
     {
       id: 1,
       title: "Weather app",
-      desc: "Lorem odit quos sit illum perferendis enim deleniti dolorum culpa voluptas mo.",
+      desc: "This is a web app created using React. The information is brought via an API called Open Weather Map.",
       img: img,
     },
     {
       id: 1,
-      title: "Rick and Morty",
-      desc: "Lorem odit quos sit illum perferendis enim deleniti dolorum culpa voluptas mo.",
+      title: "Rick and Morty Wiki",
+      desc: "A react app created using React and consuming the Rick&Morty API",
       img: rick,
     },
     {
       id: 2,
-      title: "Rampa UI Design",
-      desc: "Lorem odit quos sit illum perferendis enim deleniti dolorum culpa voluptas mo.",
+      title: "SuperChat",
+      desc: "A  chat created using React and firebase",
       img: "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
     },
   ];
