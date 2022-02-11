@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./works.scss";
 import img from "../../assets/weatherapp.png";
 import rick from "../../assets/rickandmortyapp.png";
-import chat from "../../assets/superchat.png";
+import chat from "../../assets/chatapp.png";
 
 const Works = () => {
   const [currentSlider, setCurrentSlider] = useState(0);

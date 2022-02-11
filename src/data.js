@@ -9,14 +9,14 @@ import sass from "./assets/sass.png";
 import css3 from "./assets/css3.png";
 import html from "./assets/html.png";
 import postgresql from "./assets/postgresql.png";
-import chat from "./assets/superchat.png";
+import chat from "./assets/chatapp.png";
 
 export const featuredPortfolio = [
   {
     id: 1,
     title: "SuperChat",
     img: chat,
-    link: "",
+    link: "https://react-super-chat.herokuapp.com/",
   },
   {
     id: 2,
@@ -43,7 +43,7 @@ export const webPortfolio = [
     id: 3,
     title: "SuperChat",
     img: chat,
-    link: "",
+    link: "https://react-super-chat.herokuapp.com/",
   },
 ];
 
