@@ -10,19 +10,20 @@ import css3 from "./assets/css3.png";
 import html from "./assets/html.png";
 import postgresql from "./assets/postgresql.png";
 import chat from "./assets/chatapp.png";
+import spa from "./assets/spa.png";
 
 export const featuredPortfolio = [
   {
     id: 1,
-    title: "SuperChat",
-    img: chat,
-    link: "https://react-super-chat.herokuapp.com/",
+    title: "SPA",
+    img: spa,
+    link: "https://pi-videogames-main.vercel.app/",
   },
   {
     id: 2,
-    title: "RyM app",
-    img: rick,
-    link: "https://rickndmrtwiki.netlify.app/",
+    title: "SuperChat",
+    img: chat,
+    link: "https://react-super-chat.herokuapp.com/",
   },
 ];
 
@@ -34,7 +35,7 @@ export const webPortfolio = [
     link: "https://rickndmrtwiki.netlify.app/",
   },
   {
-    id: 1,
+    id: 2,
     title: "Weather app",
     img: imgn,
     link: "https://react-weather-app-ashy.vercel.app",
@@ -44,6 +45,12 @@ export const webPortfolio = [
     title: "SuperChat",
     img: chat,
     link: "https://react-super-chat.herokuapp.com/",
+  },
+  {
+    id: 4,
+    title: "SPA",
+    img: spa,
+    link: "https://pi-videogames-main.vercel.app/",
   },
 ];
 

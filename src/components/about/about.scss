@@ -103,10 +103,18 @@
 
           img {
             height: 36%;
+            @include mobile {
+              height: 60%;
+            }
           }
 
           h5 {
             font-size: 14px;
+          }
+
+          @include mobile {
+            flex-direction: column;
+            height: 8rem;
           }
         }
       }

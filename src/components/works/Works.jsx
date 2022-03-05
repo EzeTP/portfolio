@@ -3,24 +3,31 @@ import "./works.scss";
 import img from "../../assets/weatherapp.png";
 import rick from "../../assets/rickandmortyapp.png";
 import chat from "../../assets/chatapp.png";
+import spa from "../../assets/spa.png";
 
 const Works = () => {
   const [currentSlider, setCurrentSlider] = useState(0);
   const data = [
     {
       id: 1,
+      title: "Videogames App",
+      desc: "SPA, using React, Redux, Nodejs, Sequelize and PostgresSQL",
+      img: spa,
+    },
+    {
+      id: 2,
       title: "Weather app",
       desc: "This is a web app created using React. The information is brought via an API called Open Weather Map.",
       img: img,
     },
     {
-      id: 1,
+      id: 3,
       title: "Rick and Morty Wiki",
       desc: "A react app created using React and consuming the Rick&Morty API",
       img: rick,
     },
     {
-      id: 2,
+      id: 4,
       title: "SuperChat",
       desc: "A  chat created using React and firebase",
       img: chat,
