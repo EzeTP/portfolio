@@ -4,6 +4,7 @@ import img from "../../assets/weatherapp.png";
 import rick from "../../assets/rickandmortyapp.png";
 import chat from "../../assets/chatapp.png";
 import spa from "../../assets/spa.png";
+import canch from "../../assets/canchera.png";
 
 const Works = () => {
   const [currentSlider, setCurrentSlider] = useState(0);
@@ -31,6 +32,12 @@ const Works = () => {
       title: "SuperChat",
       desc: "A  chat created using React and firebase",
       img: chat,
+    },
+    {
+      id: 5,
+      title: "Canchera",
+      desc: "football field reservation manager",
+      img: canch,
     },
   ];
 

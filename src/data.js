@@ -11,6 +11,7 @@ import html from "./assets/html.png";
 import postgresql from "./assets/postgresql.png";
 import chat from "./assets/chatapp.png";
 import spa from "./assets/spa.png";
+import canch from "./assets/canchera.png";
 
 export const featuredPortfolio = [
   {
@@ -20,10 +21,10 @@ export const featuredPortfolio = [
     link: "https://pi-videogames-main.vercel.app/",
   },
   {
-    id: 2,
-    title: "SuperChat",
-    img: chat,
-    link: "https://react-super-chat.herokuapp.com/",
+    id: 5,
+    title: "Canchera App",
+    img: canch,
+    link: "https://canchera.vercel.app/",
   },
 ];
 
@@ -51,6 +52,12 @@ export const webPortfolio = [
     title: "SPA",
     img: spa,
     link: "https://pi-videogames-main.vercel.app/",
+  },
+  {
+    id: 5,
+    title: "Canchera App",
+    img: canch,
+    link: "https://canchera.vercel.app/",
   },
 ];
 

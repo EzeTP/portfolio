@@ -1,6 +1,6 @@
 import "./about.scss";
 import { icons } from "../../data";
-import pdf from "../../docs/Ezequiel-Tejada.pdf";
+import pdf from "../../docs/Ezequiel Tejada.pdf";
 
 const About = () => {
   return (
